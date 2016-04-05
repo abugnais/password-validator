@@ -1,16 +1,21 @@
 {
-  "name": "password-validator",
+  "name": "validatePassowrd",
   "version": "1.0.0",
-  "description": "a simple node.js password validator ",
+  "description": "a simple dynamic password validator ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": ""
+  },
+  "engines": {
+    "node": ">= 0.4.0"
   },
   "keywords": [
     "password",
-    "validation",
-    "node"
+    "validation"
   ],
   "author": "Ahmad Moqanasa <ahmad.moqanasa@gmail.com>",
+  "contributors": [
+    { "name": "Ahmad Moqanasa", "email": "ahmad.moqansa@gmail.com" }
+  ],
   "license": "ISC"
 }
