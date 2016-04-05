@@ -1,0 +1,16 @@
+{
+  "name": "password-validator",
+  "version": "1.0.0",
+  "description": "a simple node.js password validator ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "password",
+    "validation",
+    "node"
+  ],
+  "author": "Ahmad Moqanasa <ahmad.moqanasa@gmail.com>",
+  "license": "ISC"
+}
